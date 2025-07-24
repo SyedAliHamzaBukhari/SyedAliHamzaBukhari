@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Interactive Web Designs
 
 ## My GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SyedAliHamzaBukhari)](https://git.io/streak-stats&theme=dark)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=SyedAliHamzaBukhari&theme=dark)](https://git.io/streak-stats)
+</div>
