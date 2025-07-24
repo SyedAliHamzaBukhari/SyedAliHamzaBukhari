@@ -1,10 +1,4 @@
-## Hi, it's Syed Ali Hamza
-
-<!-- **SyedAliHamzaBukhari/SyedAliHamzaBukhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-1. Web Developer 
-2. Python Developer
-
+![Header](./github-header-image.png)
 
 Here are some ideas to get you started:
 
