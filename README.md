@@ -1,4 +1,4 @@
-![Header](./Header-2.png)
+![Header](./Header-1.png)
 
 Here are some ideas to get you started:
 
