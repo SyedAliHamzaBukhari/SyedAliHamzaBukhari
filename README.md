@@ -16,7 +16,7 @@
 
 #### Connect 
 <p align="center">
-  <a href="www.linkedin.com/in/syed-ali-hamza-898785331" target="_blank">
+  <a href="https://www.linkedin.com/in/syed-ali-hamza-898785331/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:syedalihamzabukhari2125@gmail.com" target="_blank">
