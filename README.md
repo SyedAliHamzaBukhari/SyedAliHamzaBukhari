@@ -10,7 +10,7 @@
 #### Dev Suite
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,github,git,githubactions,powershell"/>
+    <img src="https://skillicons.dev/icons?i=windows,vscode,powershell,github,githubactions,git"/>
   </a>
 </p>
 
