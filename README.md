@@ -1,9 +1,24 @@
 ![Header](./Header-1.png)
 
 #### My Skills
+##### Web Dev
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,react,ts,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs"/>
+  </a>
+</p>
+
+##### Python
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pycharm,replit"/>
+  </a>
+</p>
+
+##### Add-ons
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,gradle,md"/>
   </a>
 </p>
 
