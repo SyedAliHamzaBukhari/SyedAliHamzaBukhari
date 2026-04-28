@@ -1,15 +1,12 @@
 ![Header](./Header-1.png)
 
 #### My Skills
-##### Web Dev
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs"/>
+<p align="center"> Web Dev <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,ts,nodejs"/>
   </a>
-</p>
+</p> 
 
-##### Python
-<p align="center">
+<p align="center"> Python
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pycharm,replit"/>
   </a>
@@ -18,7 +15,7 @@
 ##### Add-ons
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,gradle,md"/>
+    <img src="https://skillicons.dev/icons?i=cpp,java,gradle,mysql,prisma,md"/>
   </a>
 </p>
 
@@ -37,7 +34,7 @@
   <a href="mailto:syedalihamzabukhari2125@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://github.com/SyedAliHamzaBukhari"_blank">
+  <a href="https://github.com/SyedAliHamzaBukhari" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   <a href="https://x.com/Engg_Hamza" target="_blank">
