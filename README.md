@@ -1,6 +1,6 @@
 ![Header](./Header-1.png)
 
-#### My Skills
+## My Skills
 <p align="center"> Web Dev <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,ts,nodejs"/>
   </a>
@@ -12,21 +12,21 @@
   </a>
 </p>
 
-##### Add-ons
+## Add-ons
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,gradle,mysql,prisma,md"/>
+    <img src="https://skillicons.dev/icons?i=cpp,java,gradle,mysql,npm,pnpm,prisma,md"/>
   </a>
 </p>
 
-#### Dev Suite
+## Dev Suite
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,vscode,powershell,github,githubactions,git"/>
   </a>
 </p>
 
-#### Connect 
+## Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-ali-hamza-898785331/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
